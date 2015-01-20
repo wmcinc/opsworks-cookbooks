@@ -5,6 +5,3 @@ cookbook 'elasticsearch', '~> 0.3.10'
 
 cookbook 'opsworks_sidekiq', git: 'https://github.com/wmcinc/opsworks_sidekiq.git', branch: 'restart-fix'
 cookbook 'apache2-maintenance', git: 'https://github.com/wmcinc/apache2-maintenance.git'
-
-cookbook 'redisio', '~> 2.2.4'
-
